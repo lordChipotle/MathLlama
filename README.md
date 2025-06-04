@@ -1,4 +1,4 @@
-# MathLlama - Llama 3.1-8B Mathematical Reasoning (GRPO)
+# MathsLlama - Llama 3.1-8B Mathematical Reasoning (GRPO)
 ---
 datasets:
 - openai/gsm8k
