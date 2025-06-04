@@ -7,9 +7,6 @@ base_model:
 pipeline_tag: reinforcement-learning
 ---
 
-## Full-Post-Training Instruction
-Please visit our [notebook](https://colab.research.google.com/drive/1kRmxAC5dL_rOqZUea11X2IdE5-mKbhnw?usp=sharing) for a full walkthrough on this project.
-
 ## Model Description
 
 This model is a fine-tuned version of [meta-llama/Meta-Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct) trained using **Group Relative Policy Optimization (GRPO)** to enable autonomous mathematical reasoning capabilities. Unlike traditional supervised fine-tuning approaches, this model learned to reason through reinforcement learning without requiring pre-labeled reasoning examples or teacher model distillation.
